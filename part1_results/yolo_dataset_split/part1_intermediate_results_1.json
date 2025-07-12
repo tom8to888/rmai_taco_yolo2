@@ -1,0 +1,86 @@
+[
+  {
+    "model_name": "yolov5n",
+    "model_path": "yolov5nu.pt",
+    "trained_model_path": "yolo_litter_detection_part1/yolov5n/weights/best.pt",
+    "size_mb": 5.305060386657715,
+    "parameters": 2654816,
+    "training_time_hours": 0.820923989812533,
+    "default_map50": 0.4882298953629431,
+    "default_map50_95": 0.3250816450725238,
+    "default_precision": 0.7222970127555963,
+    "default_recall": 0.4249471458773784,
+    "best_confidence": 0.5,
+    "optimized_map50": 0.6014829159789069,
+    "optimized_map50_95": 0.4567377709359036,
+    "optimized_precision": 0.7861771058315334,
+    "optimized_recall": 0.38477801268498946,
+    "map50_improvement": 0.11325302061596382,
+    "map50_95_improvement": 0.13165612586337982,
+    "precision_improvement": 0.06388009307593712,
+    "recall_improvement": -0.04016913319238896,
+    "avg_inference_time": 0.0668037223815918,
+    "fps": 14.969225730983466,
+    "total_inference_time_yolo": 0.01166292160261392,
+    "fps_yolo": 85.7418093058156,
+    "confidence_results": [
+      {
+        "confidence": 0.001,
+        "mAP50": 0.5275591859782697,
+        "mAP50_95": 0.3439294455183338
+      },
+      {
+        "confidence": 0.1,
+        "mAP50": 0.5667460371976458,
+        "mAP50_95": 0.39303983431705924
+      },
+      {
+        "confidence": 0.2,
+        "mAP50": 0.5799091999735482,
+        "mAP50_95": 0.4118112824909132
+      },
+      {
+        "confidence": 0.3,
+        "mAP50": 0.5950787650998509,
+        "mAP50_95": 0.4337174420130818
+      },
+      {
+        "confidence": 0.4,
+        "mAP50": 0.6044302171269414,
+        "mAP50_95": 0.44729602889686826
+      },
+      {
+        "confidence": 0.5,
+        "mAP50": 0.61454055921678,
+        "mAP50_95": 0.46329977425900354
+      },
+      {
+        "confidence": 0.6,
+        "mAP50": 0.5974622436039886,
+        "mAP50_95": 0.46413207050500827
+      },
+      {
+        "confidence": 0.7,
+        "mAP50": 0.5995450789054457,
+        "mAP50_95": 0.48119683018322734
+      },
+      {
+        "confidence": 0.8,
+        "mAP50": 0.5788243767645824,
+        "mAP50_95": 0.4855912229699503
+      },
+      {
+        "confidence": 0.9,
+        "mAP50": 0.5163870967741937,
+        "mAP50_95": 0.47444569208169823
+      },
+      {
+        "confidence": 0.95,
+        "mAP50": 0.0,
+        "mAP50_95": 0.0
+      }
+    ],
+    "completed_at": "2025-07-12T15:34:12.562636",
+    "part": 1
+  }
+]
